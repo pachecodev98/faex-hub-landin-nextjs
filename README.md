@@ -1,6 +1,6 @@
 - faexHUB
 
-Plataforma de conexão, compartilhamento e aprendizado para comunidades.
+Projeto de landing page feito em nextjs
 
 - Instalação
 
